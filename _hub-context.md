@@ -42,3 +42,12 @@ All intelligence from Tony before that date is pre-employment. Handle accordingl
 ## Resolved
 
 *(None yet)*
+
+## Learnings for Hub
+
+*Learnings from this project's sessions to be reviewed and promoted by TDG-Intel. Written at session close via /close Step 5a.*
+
+*Format: Category: [Voice/Style | Method | System] | Source: [what generated it] | Learning: [the pattern or rule]*
+
+[None logged yet]
+

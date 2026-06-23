@@ -101,6 +101,9 @@ Viktos designs and sells apparel and gear oriented toward tactical operators, mi
 
 ## 8. Standing Rules for This Project
 
+**Em dash rule:** Never use em dashes in any output produced in this project. Use commas, colons, parentheses, or restructured sentences instead.
+- **Enforcement:** Before producing any output, scan for the character ( — ). If found, stop. Rewrite the sentence using a comma, colon, parenthesis, or restructured phrasing. No exceptions. Violations are not acceptable — this is a hard rule, not a preference. (Note: that last sentence is an example of what NOT to do.)
+
 **No GTD account placement:** Do not recommend Viktos to GT Distributors. Nick confirmed explicitly on the discovery call.
 
 **Tony Lott:** Treat all intelligence from Tony as a confidential source until he is formally on the Viktos payroll. He is sharing pre-employment strategy with Nick. Handle with care.
