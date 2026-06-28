@@ -1,0 +1,7 @@
+# Session Summary — 2026-06-26
+Project: Viktos (VTS-AI)
+Approximate duration: 60 min
+
+## [~14:00 CT] Session — Meeting confirmation, enrich, site audit, and July 1 prep
+
+Nick confirmed the July 1 intro call via Tony's text thread: 3PM CT with Tony Lott and Ryan Wiedenmeier (GM). Ryan's last name was confirmed as Wiedenmeier (contact card attached). Tony's Viktos email (tonyl@viktos.com) is live. The call is discovery/download mode only — retainer proposal is explicitly Round 2 per Tony. All session prep was completed: a full enrich run produced stakeholder profiles for Justin Fox, Ryan Wiedenmeier, Kurt Walter, and Perry Latuharhary (01_Strategy/STAKEHOLDER_PROFILES.md); a mobile site audit of viktos.com identified three P1 issues (pinch-to-zoom disabled, no persistent cart, likely incomplete post-migration redirects) plus five additional findings (03_Technology/SITE_AUDIT_2026-06-26.md); and a 20-question discovery call prep doc was built with opening frame, capability proof points, and red flags (05_Sales/2026-07-01_DISCOVERY_CALL_PREP.md). Key discovery from enrichment: Perry Latuharhary has been Director of Marketing and Product Development at Viktos since February 2023 and was not mentioned in the June 22 discovery call — his scope must be understood before the retainer proposal is structured. "Kurt Curtin" from the discovery call is likely Kurt Walter (Founder, Design Director), confirmed as the only Kurt in Viktos's public org directory. Next session should begin with the post-call debrief after July 1 at 3PM CT.

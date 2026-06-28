@@ -46,5 +46,52 @@ Rationale: The team meeting (Tony, Ryan, and potentially Justin Fox) is an intro
 
 ---
 
+## 2026-06-26 | Intel update and prep sequencing
+
+**Intro meeting confirmed: July 1, 2026 at 3PM CT.**
+Owner: Nick (invite sent); Tony and Ryan accepted.
+Rationale: Tony texted with meeting parameters. Attendees: Tony Lott and Ryan Wiedenmeier. Justin Fox not on this call.
+
+**Ryan's last name confirmed: Wiedenmeier.**
+Owner: N/A (fact confirmation)
+Rationale: Tony sent Ryan's contact card. Full name Ryan Wiedenmeier, email ryanw@viktos.com. Resolves all prior [CONFIRM] flags.
+
+**Retainer proposal is Round 2, not the July 1 call.**
+Owner: Nick (confirmed by Tony)
+Rationale: Tony explicitly framed July 1 as "intro call — you getting a download on what we need, then a follow-up with what you can solve and your retainer proposal." Do not present proposals July 1.
+
+**Tony Lott's Viktos email: tonyl@viktos.com (active as of June 25).**
+Owner: N/A (contact record)
+Rationale: Tony confirmed he has access. Use this email for all Viktos-related communications going forward.
+
+**July 1 discovery focus areas (per Tony's text):**
+- Persistent cart / mobile optimization (70-80% mobile traffic)
+- Organic traffic recovery
+- New customer acquisition
+- SEO (generic keywords issue)
+- BigCommerce migration damage
+- Google Marketing and Google/Microsoft tracking pixel experience
+- Site optimization
+Owner: Nick (prep)
+Rationale: Tony pre-briefed what Ryan will want to hear. These are the required capability proof points for the call.
+
+---
+
+## 2026-06-26 | Research session findings (not decisions — intelligence updates)
+
+**"Kurt Curtin" is likely Kurt Walter.**
+Source: Web research. The only Kurt in Viktos's leadership directory is Kurt Walter (Founder, Design Director, Creative Director). Tony may have misspoken the last name on the June 22 call. Do not assert either name. Flag as [CONFIRM] until verified.
+
+**Perry Latuharhary is Director of Marketing and Product Development (since February 2023).**
+Source: ZoomInfo, The Org, LinkedIn. Not mentioned on the June 22 discovery call. This person's scope and role in the internal hire debate is unknown and critical. Must be understood before the retainer proposal is built.
+
+**Justin Fox is a founder, not a professional hire — family stakes in the brand.**
+Source: Tactical Retailer interview (August 2024). His father Jeff Fox co-launched Viktos and died in 2018. The brand has personal history. This context is useful for understanding why losing the BigCommerce migration hurt his confidence so specifically.
+
+**Fastest-growing product category at Viktos: bags (Upscale, Counteract lines).**
+Source: Justin Fox / Tactical Retailer interview. Top current SKUs: Taculus CCW Coolmax jeans, 1911 Retro Boot. Future growth opportunity flagged by Justin: LE uniforms and military combat tops/pants.
+
+---
+
 *All future decisions will be logged here with date, decision, owner, and rationale.*
 *Format: [Date] | Decision | Owner | Rationale*

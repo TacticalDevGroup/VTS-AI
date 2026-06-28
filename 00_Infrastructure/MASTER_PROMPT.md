@@ -39,10 +39,11 @@ Viktos designs and sells apparel and gear oriented toward tactical operators, mi
 |---|---|---|---|
 | Tony Lott | VP Commercial Operations | Internal champion; arranged TDG introduction before starting | Does not start at Viktos until ~June 30. Variable comp, no cap — financially incentivized to grow revenue fast. |
 | Justin Fox | President | Key decision-maker; potential blocker | Lost confidence after the BigCommerce migration. May prefer internal hire. |
-| Ryan [Meyer?] | General Manager | Likely neutral; operational | "Not keeping current on ecom." Systems-oriented. Unlikely to fight. Last name unconfirmed. |
-| Kurt Curtin | Chief Brand/Product (approx.) | Potential blocker | Currently doing things outside his lane; advocates for internal hire partly to relieve his own burden. Title unconfirmed. |
+| Ryan Wiedenmeier | General Manager | Likely neutral; operational | "Not keeping current on ecom." Systems-oriented. Unlikely to fight. Email: ryanw@viktos.com. Last name confirmed 2026-06-26 via Tony's contact card. |
+| Kurt Walter [CONFIRM name] | Founder, Design Director, Creative Director | Potential blocker | Tony called this person "Kurt Curtin" on the discovery call but the only Kurt in Viktos's public directory is Kurt Walter (Founder, Design Director). Confirm name at July 1 meeting. Advocates for internal hire partly to relieve his own burden from ecom/marketing tasks outside his design lane. |
+| Perry Latuharhary | Director of Marketing and Product Development | Unknown role in engagement | NOT mentioned on discovery call. Has been at Viktos since February 2023. Background is operations/consulting, not traditional ecom/brand marketing. Critical unknown: what is his actual scope? Is TDG filling his gap, working alongside him, or replacing him? |
 
-**Note:** Ryan's last name is unconfirmed from the discovery call. Tony referenced "Ryan Meyer" or "Ryan Miller" — context was slightly unclear. Confirm at the team meeting or via LinkedIn enrichment.
+**Note:** Ryan Wiedenmeier confirmed 2026-06-26 via Tony's contact card. Email: ryanw@viktos.com. Phone: 414-940-2247.
 
 ---
 
@@ -118,11 +119,12 @@ Viktos designs and sells apparel and gear oriented toward tactical operators, mi
 
 | Owner | Action | Due |
 |---|---|---|
-| Nick | Review viktos.com on mobile — full site audit | Before week of June 30 |
-| Nick | Run /enrich on Viktos — populate org intel, stakeholder profiles | This week |
-| Nick | Draft Option A and Option B retainer packages | Before team meeting (week of June 30) |
-| Nick | Review Instagram (206K) and note conversion gap observations | Before week of June 30 |
-| Tony | Schedule intro meeting: Tony, Nick, Ryan, and optionally Justin | Week of June 30 (approx.) |
+| Nick | Review viktos.com on mobile — full site audit (focus: persistent cart, mobile UX) | Before July 1 |
+| Nick | Run /enrich on Viktos — populate org intel, stakeholder profiles (Ryan Wiedenmeier, Justin Fox, Kurt Curtin) | Before July 1 |
+| Nick | Prep discovery question list for July 1 intro call (BigCommerce, tracking pixels, SEO, acquisition) | Before July 1 |
+| Nick | Draft Option A and Option B retainer packages | Round 2 (after July 1 call) |
+| Nick | Review Instagram (206K) and note conversion gap observations | Before July 1 |
+| Tony | DONE: Intro meeting scheduled July 1 3PM CT | Confirmed 2026-06-26 |
 | Nick | Update _project-status.md on close or progression | After team meeting |
 
 ---

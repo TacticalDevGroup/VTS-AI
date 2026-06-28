@@ -1,82 +1,84 @@
 # Active Threads — Viktos (VTS-AI)
-*Last updated: 2026-06-22*
+*Last updated: 2026-06-26*
 
 ---
 
-## Intro Meeting (Team: Tony, Ryan, Justin)
-Status: not yet scheduled
-Owner: Tony Lott (scheduling)
-Last action: June 22 discovery call — Tony committed to scheduling "the week of June 30, approximately."
-Next action: Await Tony's scheduling confirmation. Nick to prepare: site audit, retainer options, discovery question list.
-Next action by: Week of June 29-30
-
----
-
-## Retainer Proposal (Option A and Option B)
-Status: not drafted
-Owner: Nick (draft)
-Last action: June 22 — engagement structure agreed in principle. Two options to present:
-- Option A: Full retainer (MKII or MKIII, $10K-$15K+/month)
-- Option B: Reduced base plus uncapped performance component (mirrors Tony's own comp)
-Next action: Nick drafts both options before the week of June 30 team meeting.
-Next action by: Before team meeting
-
----
-
-## Post-Migration Post-Mortem (BigCommerce)
-Status: not yet scoped
-Owner: Nick (to scope and lead)
-Last action: June 22 — identified as the fastest credibility path. January 2025 Shopify to BigCommerce migration caused measurable traffic and revenue loss. No rigorous analysis has been done.
-Next action: After engagement begins, scope a structured post-mortem. Identify root causes. This is a high-visibility early win.
-Next action by: Phase 1 of engagement (early July if closes)
-
----
-
-## Site Audit (viktos.com mobile)
-Status: not yet done
+## Intro Meeting — July 1, 3PM CT
+Status: CONFIRMED and prepped
 Owner: Nick
-Last action: June 22 — Nick committed to reviewing viktos.com on mobile before the team meeting.
-Next action: Nick reviews viktos.com mobile experience end-to-end, notes conversion gaps, UX issues, and merchandising observations.
-Next action by: Before week of June 30
+Last action: June 26 — Call confirmed. Both Tony and Ryan Wiedenmeier accepted the invite. All session prep complete: enrich done (01_Strategy/STAKEHOLDER_PROFILES.md), site audit done (03_Technology/SITE_AUDIT_2026-06-26.md), discovery question list done (05_Sales/2026-07-01_DISCOVERY_CALL_PREP.md). Nick still owns Instagram review.
+Next action: Nick completes Instagram review before July 1. Run the call in discovery/download mode. After call: send Ryan a follow-up with data access request (GSC, GA4, BC admin, Klaviyo).
+Next action by: July 1, 2026 at 3PM CT
 
 ---
 
 ## Instagram Conversion Gap Assessment
-Status: open observation, no analysis yet
-Owner: Nick (to assess before team meeting)
-Last action: June 22 — 206K followers, poor conversion rate identified as a major latent opportunity. No action assigned.
-Next action: Nick notes observations on Viktos's Instagram before the team meeting. Frame as a brand identity and conversion problem, not a social media management problem.
-Next action by: Before week of June 30
+Status: open — Nick-owned, due before July 1
+Owner: Nick
+Last action: June 26 — Site audit complete, Instagram review still outstanding.
+Next action: Nick manually reviews Viktos Instagram (206K followers). Frame as brand identity and conversion problem, not social media management problem. Note follower-to-engagement ratio, content type mix, link-in-bio destination, and any story/reel conversion mechanisms.
+Next action by: Before July 1
 
 ---
 
-## Justin Fox / Kurt Curtin — Internal Hire Risk
+## Justin Fox / Kurt [Walter?] — Internal Hire Risk
 Status: active risk — unresolved
-Owner: Tony (to manage internally); Nick (to help Tony build the case)
-Last action: June 22 — Justin and Kurt prefer an internal hire. Tony and Ryan are on the other side. This is the primary close risk.
-Internal hire counterarguments to build:
-- External resource is faster to value (no 60-90 day ramp)
-- Broader skills than any single hire
-- No benefits or overhead
-- Immediately deployable
-- Reduces Kurt's burden on day one (key lever — Kurt's hire preference is partly self-serving)
-Next action: Tony continues to build the case internally. Nick provides supporting materials if asked.
-Next action by: Before or during team meeting
+Owner: Tony (internal); Nick (materials/positioning)
+Last action: June 26 — Research confirmed "Kurt Curtin" (Tony's name from discovery call) is likely Kurt Walter (Founder, Design Director, Creative Director at Viktos). Name not yet confirmed. Internal hire risk still the primary close blocker. Discovery call question list includes questions designed to surface the actual team structure and Perry Latuharhary's scope.
+Next action: July 1 call — use discovery questions to understand current marketing team structure. Tony continues building case internally. After call, arm Tony with TDG-vs-hire counterargument framing.
+Next action by: July 1 (surfacing); after call (materials)
 
 ---
 
-## /enrich Run
-Status: not yet done
-Owner: Nick (to trigger); Claude (to execute)
-Last action: June 22 — flagged as a needed action. Stakeholder profiles (Justin Fox, Kurt Curtin, Ryan [GM]) and org intelligence not yet populated.
-Next action: Run /enrich on Viktos. Populate stakeholder profiles, org history, tech stack confirmation.
-Next action by: This week (before June 30 meeting)
+## Retainer Proposal (Option A and Option B)
+Status: not drafted — Round 2 (post July 1 call)
+Owner: Nick
+Last action: June 26 — Tony explicitly confirmed retainer proposal is not needed July 1. Round 2 deliverable.
+Options:
+- Option A: Full retainer (MKII or MKIII, $10K-$15K+/month)
+- Option B: Reduced base plus uncapped performance component (mirrors Tony's comp structure)
+Next action: Draft both options after the July 1 call, once Nick has Ryan's full download.
+Next action by: Week of July 7 (target)
+
+---
+
+## Post-Migration Post-Mortem (BigCommerce)
+Status: pre-scope — waiting on engagement to begin
+Owner: Nick (to scope and lead once engaged)
+Last action: June 26 — Site audit identified the most likely root cause: URL structure changes from Shopify to BC with incomplete 301 redirect mapping. GSC and GA4 access needed to confirm scope of damage. This is the fastest credibility path TDG has with Justin Fox.
+Next action: After engagement begins, request GSC, GA4, and BC admin access. Run redirect audit. Scope the post-mortem formally.
+Next action by: Phase 1 of engagement (mid-July if closes)
 
 ---
 
 ## Commercial Sales Team Structure
-Status: open, unresolved on discovery call
+Status: open — Tony's decision
 Owner: Tony (decision); Nick (advisory)
-Last action: June 22 — Evans Group discussed as a short-term rep option. No decision reached. Tony needs to resolve commercial sales team structure.
-Next action: Tony resolves internal on rep group vs. hire. Nick advises when asked.
+Last action: June 22 — Evans Group discussed as short-term rep option. No decision.
+Next action: Tony resolves internally. Nick advises when asked.
 Next action by: TBD — Tony's timeline
+
+---
+
+## ARCHIVED THREADS
+*Completed, past-due, or superseded. Retained for context — not active.*
+
+### [ARCHIVED] /enrich Run
+Status: COMPLETED
+Archived: 2026-06-26
+Output: 01_Strategy/STAKEHOLDER_PROFILES.md created. Profiles for Justin Fox, Ryan Wiedenmeier, Kurt Walter, Perry Latuharhary, and Tony Lott. Key discovery: Perry Latuharhary (Director of Marketing and Product Development since February 2023) was not flagged in discovery call intel.
+
+### [ARCHIVED] Site Audit (viktos.com mobile)
+Status: COMPLETED
+Archived: 2026-06-26
+Output: 03_Technology/SITE_AUDIT_2026-06-26.md. P1 findings: pinch-to-zoom disabled (viewport setting), no persistent cart, likely incomplete 301 redirects post-migration. P2: sale prices hidden until cart, no email/SMS capture. Full priority list in audit doc.
+
+### [ARCHIVED] Discovery Question List
+Status: COMPLETED
+Archived: 2026-06-26
+Output: 05_Sales/2026-07-01_DISCOVERY_CALL_PREP.md. 20 questions organized by topic. Includes opening frame, capability proof points for Ryan's stated areas, site audit observations ready to deploy, red flags to listen for.
+
+### [ARCHIVED] Ryan Wiedenmeier — Last Name Confirmation
+Status: RESOLVED
+Archived: 2026-06-26
+Resolution: Ryan Wiedenmeier confirmed 2026-06-26 via contact card from Tony. Email: ryanw@viktos.com. All [CONFIRM] flags updated.
