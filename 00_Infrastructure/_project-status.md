@@ -1,5 +1,5 @@
 # Project Status — Viktos (VTS-AI)
-*Last updated: 2026-06-26*
+*Last updated: 2026-07-01 (corrected, this file lagged _active-threads.md; call date and next action were stale)*
 
 ---
 
@@ -8,9 +8,9 @@
 **Lifecycle stage:** prospect
 **Intake date:** 2026-06-22
 **Source:** Inbound via Tony Lott (longtime friend of Nick's; VP Commercial Ops, starts at Viktos ~June 30)
-**Probability:** 65% (unchanged; meeting confirmed but close risk unresolved)
+**Probability:** 65% (unchanged; meeting held, went well, but close risk unresolved)
 **Deal value / tier:** MKII to MKIII range ($10K-$15K+/month); Option B (performance) also in play
-**Next action:** July 1 intro call at 3PM CT with Tony Lott and Ryan Wiedenmeier
+**Next action:** Nick sends post-call recap + data access request to Ryan Wiedenmeier and Tony Lott, TODAY 2026-07-01 (draft ready, committed on the call)
 **Next milestone:** Close or no-close decision expected after proposal is delivered (week of July 7 target)
 
 ---
@@ -33,8 +33,8 @@ Conversion from prospect to active-client requires:
 | 2026-06-22 | First discovery call (88 min); Tony and Nick aligned on engagement model |
 | 2026-06-25 | Tony's Viktos email (tonyl@viktos.com) goes live |
 | 2026-06-26 | Meeting confirmed; Ryan Wiedenmeier name confirmed; enrich, site audit, and discovery prep complete |
-| ~2026-06-30 | Tony's first official day at Viktos |
-| 2026-07-01 | Intro call: Nick, Tony, Ryan Wiedenmeier at 3PM CT |
+| 2026-06-30 | Intro call: Nick, Tony, Ryan Wiedenmeier (moved up from July 1, ran 2:59PM CT, 65 min). Went well. Justin Fox not on call. |
+| 2026-07-01 | Nick sends post-call recap + data access request (draft ready) |
 | Week of 2026-07-07 | Target: retainer proposal delivered (Round 2) |
 | Mid-July 2026 | Expected: close decision |
 
