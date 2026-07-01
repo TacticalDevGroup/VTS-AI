@@ -21,6 +21,8 @@ Beyond those: the site is visually strong but not optimized for purchase flow. A
 
 Klaviyo is in place. I want to see the automation flows, conversion rates, and what the messaging looks like before forming an opinion on email.
 
+One more thing worth flagging now, because it's a fast win once we have access: I looked at the Instagram feed. You've got 206,000 followers and posts that pull 1,000 to 2,000 likes when they're in culture mode (the John Wayne, Heat, Optimus Prime content), but product posts are landing at 40 to 100 likes. That's not a content execution problem, it's a strategy problem, and it's a good one to have, because the audience is already telling you what it responds to. Closing that gap between cultural engagement and product engagement is a high-leverage, low-cost first move once we're inside the account.
+
 **What I need to get started:**
 
 To validate what I'm seeing and build a proper diagnostic, I'd like access to:
