@@ -1,23 +1,53 @@
 # Active Threads — Viktos (VTS-AI)
-*Last updated: 2026-06-26*
+*Last updated: 2026-06-30 (discovery call — Nick + Ryan Wiedenmeier + Tony Lott; transcript filed 2026-06-30_nick-ryan-wiedenmeier-tony-lott_viktos-tdg-discovery-call.md)*
 
 ---
 
-## Intro Meeting — July 1, 3PM CT
-Status: CONFIRMED and prepped
+## Post-Call Recap + Data Access Request (TIME-SENSITIVE)
+Status: COMMITTED — due July 1, 2026
 Owner: Nick
-Last action: June 26 — Call confirmed. Both Tony and Ryan Wiedenmeier accepted the invite. All session prep complete: enrich done (01_Strategy/STAKEHOLDER_PROFILES.md), site audit done (03_Technology/SITE_AUDIT_2026-06-26.md), discovery question list done (05_Sales/2026-07-01_DISCOVERY_CALL_PREP.md). Nick still owns Instagram review.
-Next action: Nick completes Instagram review before July 1. Run the call in discovery/download mode. After call: send Ryan a follow-up with data access request (GSC, GA4, BC admin, Klaviyo).
-Next action by: July 1, 2026 at 3PM CT
+Last action: June 30 — Discovery call completed with Ryan Wiedenmeier and Tony Lott. All three parties aligned on opportunity. Call went very well.
+Next action: Nick sends call recap + data access request to Ryan and Tony at nick@tacticaldevgroup.com by July 1. Access requested: Google Search Console, GA4, BigCommerce Admin, Tag Manager, Klaviyo. Include IG analysis from TDG-Intel/tdg/sandbox/vts-ig-review/ in the recap.
+Next action by: JULY 1, 2026 (committed on the call)
+
+---
+
+## Justin Fox / Kurt Curtin — Internal Hire Risk (PRIMARY CLOSE BLOCKER)
+Status: active risk — unresolved
+Owner: Tony (internal); Nick (materials/positioning)
+Last action: June 30 — Justin was not on the discovery call. Ryan deferred the "marketing leadership" question to Justin ("that would probably be more of a question for Justin"). Tony and Ryan both positive. Justin remains the unknown. Kurt Curtin was not mentioned on this call by name.
+Next action: After recap is sent and data access granted, Nick needs a proposal ready for Justin presentation. Tony is the internal bridge to get Justin on the next call. Arm Tony with TDG-vs-hire positioning framing.
+Next action by: Proposal ready before Justin call (week of July 7 target)
+
+---
+
+## Post-Migration Post-Mortem (BigCommerce) — NOW ACTIVE
+Status: WAITING ON ACCESS
+Owner: Nick (to scope and lead)
+Last action: June 30 — Ryan confirmed: 404 errors present, incomplete 301 redirects, organic traffic dropped post-migration January 2025, still waiting on full crawl to assess current state. Nick identified persistent cart (admin setting), pinch-to-zoom (one viewport meta tag line), and redirect audit as three confirmed quick wins. Ryan is aware of the 301 issue but has not fully resolved it.
+Next action: Once data access granted, run redirect audit (GSC crawl errors), confirm persistent cart admin fix, confirm pinch-to-zoom fix. Document quick wins and present to Justin.
+Next action by: Week of July 7 (pending access grant)
+
+---
+
+## Retainer Proposal (Option A and Option B)
+Status: ACTIVE — scope TBD pending Justin's involvement
+Owner: Nick
+Last action: June 30 — Tony wants quick wins and ROI fast. Ryan wants ongoing martech/ecom expertise, not a project shop. Nick positioned as CMO-level retainer. No numbers discussed. Justin must weigh in before scope is formally set.
+Options:
+- Option A: Full retainer (MKII or MKIII, $10K-$15K+/month) -- CMO function + martech
+- Option B: Reduced base plus uncapped performance component (mirrors Tony's comp structure)
+Next action: Draft both options after data access and initial audit, once Nick has enough to show quick wins. Bring to Justin presentation.
+Next action by: Week of July 7 (target, after data access)
 
 ---
 
 ## Instagram Conversion Gap Assessment
-Status: open — Nick-owned, due before July 1
+Status: COMPLETED (prior to call)
 Owner: Nick
-Last action: June 26 — Site audit complete, Instagram review still outstanding.
-Next action: Nick manually reviews Viktos Instagram (206K followers). Frame as brand identity and conversion problem, not social media management problem. Note follower-to-engagement ratio, content type mix, link-in-bio destination, and any story/reel conversion mechanisms.
-Next action by: Before July 1
+Last action: June 30 — IG analysis completed and filed at TDG-Intel/tdg/sandbox/vts-ig-review/. Must be incorporated into the July 1 recap document.
+Next action: Include IG analysis findings in recap sent to Ryan and Tony July 1.
+Next action by: July 1
 
 ---
 
@@ -62,6 +92,11 @@ Next action by: TBD — Tony's timeline
 
 ## ARCHIVED THREADS
 *Completed, past-due, or superseded. Retained for context — not active.*
+
+### [ARCHIVED] Intro Meeting — July 1, 3PM CT
+Status: COMPLETED (call moved to June 30)
+Archived: 2026-06-30
+Notes: Call ran June 30 at 2:59 PM CT with Nick Hoffman, Ryan Wiedenmeier, and Tony Lott. 65 minutes. All session prep was complete before the call. Call went very well. See extract: VTS-AI/09_Meetings/Transcripts/2026-06-30_nick-ryan-wiedenmeier-tony-lott_viktos-tdg-discovery-call_extract.md
 
 ### [ARCHIVED] /enrich Run
 Status: COMPLETED

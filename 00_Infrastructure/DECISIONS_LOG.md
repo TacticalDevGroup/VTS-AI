@@ -46,6 +46,22 @@ Rationale: The team meeting (Tony, Ryan, and potentially Justin Fox) is an intro
 
 ---
 
+## 2026-06-30 | Discovery call (Nick + Ryan Wiedenmeier + Tony Lott)
+
+**No formal decisions reached. Discovery call only.**
+Owner: Nick
+Notes: The June 30 call was a discovery session. All three parties aligned on opportunity and good fit. No scope, no numbers, no commitments beyond Nick's data access request. Formal decisions deferred until Justin Fox is on a call.
+
+**Nick committed: send recap + data access request to Ryan and Tony by July 1, 2026.**
+Owner: Nick (committed on the call)
+Rationale: Concrete next step agreed at end of call. Access requested: Google Search Console, GA4, BigCommerce Admin, Tag Manager, Klaviyo. IG analysis from TDG-Intel/tdg/sandbox/vts-ig-review/ to be incorporated in the recap.
+
+**Call moved from July 1 to June 30.**
+Owner: N/A (scheduling update)
+Rationale: Call was originally scheduled for July 1 at 3PM CT. Ran June 30 at 2:59 PM CT instead. All prep was complete. No material impact.
+
+---
+
 ## 2026-06-26 | Intel update and prep sequencing
 
 **Intro meeting confirmed: July 1, 2026 at 3PM CT.**
